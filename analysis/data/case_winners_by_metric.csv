@@ -1,0 +1,201 @@
+split,case,geology_type,winner_correlation,winner_gradient_correlation,winner_gradient_rmse,winner_iou,winner_mae,winner_multi_interface_mean_distance_pixels,winner_normalized_centroid_distance,winner_normalized_rmse,winner_orientation_error_degrees,winner_polarity_accuracy,winner_relative_area_error,winner_rmse,winner_ssim
+ID,0,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,1,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Equal mixture,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,2,dykes,Unconditional,Oracle conditional,Unconditional,SimPEG L2,SimPEG L2,,,Unconditional,,SimPEG L2,SimPEG L2,Unconditional,Oracle conditional
+ID,3,faulted_layers,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Unconditional,,SimPEG L2,,Equal mixture,,SimPEG L2,SimPEG L2
+ID,4,dipping_layers,Unconditional,Oracle conditional,Equal mixture,,Unconditional,Equal mixture,,Unconditional,,Equal mixture,,Unconditional,Unconditional
+ID,5,horizontal_layers,SimPEG L2,SimPEG L2,Equal mixture,,Equal mixture,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Equal mixture
+ID,6,dipping_layers,Equal mixture,Unconditional,Unconditional,,Unconditional,Unconditional,,Equal mixture,,SimPEG L2,,Equal mixture,Unconditional
+ID,7,blobs,Equal mixture,Oracle conditional,Oracle conditional,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Equal mixture,Equal mixture,Oracle conditional
+ID,8,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Equal mixture,Unconditional,Unconditional
+ID,9,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Equal mixture,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,10,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,11,dipping_layers,Unconditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,,Unconditional,,Unconditional,,Unconditional,Unconditional
+ID,12,horizontal_layers,SimPEG L2,Oracle conditional,Equal mixture,,SimPEG L2,Oracle conditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+ID,13,horizontal_layers,Equal mixture,Unconditional,Equal mixture,,Unconditional,Unconditional,,Equal mixture,,Unconditional,,Equal mixture,SimPEG L2
+ID,14,dipping_layers,Oracle conditional,Oracle conditional,SimPEG L2,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,15,dipping_layers,Unconditional,Unconditional,SimPEG L2,,Oracle conditional,Unconditional,,Unconditional,,Oracle conditional,,Unconditional,SimPEG L2
+ID,16,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,SimPEG L2,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,17,blobs,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,,,Unconditional,,Unconditional,SimPEG L2,Unconditional,Unconditional
+ID,18,intrusions,Equal mixture,SimPEG L2,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Equal mixture,Equal mixture,Oracle conditional
+ID,19,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,20,dipping_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Unconditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,21,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,22,horizontal_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,23,blobs,Equal mixture,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,Equal mixture,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,24,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Equal mixture,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,25,intrusions,Oracle conditional,Equal mixture,Equal mixture,Equal mixture,Oracle conditional,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Equal mixture,Equal mixture,Oracle conditional
+ID,26,dykes,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Equal mixture,SimPEG L2,Unconditional,Unconditional,Oracle conditional
+ID,27,intrusions,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,Oracle conditional
+ID,28,horizontal_layers,Equal mixture,Oracle conditional,SimPEG L2,,Equal mixture,Unconditional,,Equal mixture,,Equal mixture,,Equal mixture,Oracle conditional
+ID,29,faulted_layers,Equal mixture,Oracle conditional,Equal mixture,,Equal mixture,Oracle conditional,,Equal mixture,,Equal mixture,,Equal mixture,Equal mixture
+ID,30,intrusions,SimPEG L2,Unconditional,SimPEG L2,Unconditional,SimPEG L2,,Oracle conditional,SimPEG L2,Unconditional,SimPEG L2,Oracle conditional,SimPEG L2,Unconditional
+ID,31,blobs,Unconditional,Unconditional,SimPEG L2,Unconditional,SimPEG L2,,Unconditional,SimPEG L2,Equal mixture,Unconditional,Equal mixture,SimPEG L2,Oracle conditional
+ID,32,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Unconditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,33,blobs,Equal mixture,Oracle conditional,Equal mixture,Unconditional,Equal mixture,,Unconditional,Unconditional,Unconditional,Oracle conditional,Unconditional,Unconditional,Equal mixture
+ID,34,horizontal_layers,Unconditional,Equal mixture,SimPEG L2,,Unconditional,Equal mixture,,Unconditional,,Unconditional,,Unconditional,SimPEG L2
+ID,35,horizontal_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,,Equal mixture,,SimPEG L2,,Equal mixture,Equal mixture
+ID,36,blobs,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,,Unconditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,37,horizontal_layers,Unconditional,Oracle conditional,Oracle conditional,,Equal mixture,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+ID,38,blobs,Equal mixture,Unconditional,SimPEG L2,Unconditional,Equal mixture,,Oracle conditional,Equal mixture,Unconditional,SimPEG L2,Oracle conditional,Equal mixture,Unconditional
+ID,39,faulted_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Unconditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,40,horizontal_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,41,dipping_layers,Oracle conditional,Unconditional,SimPEG L2,,Oracle conditional,Oracle conditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+ID,42,dipping_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,,Equal mixture,,Equal mixture,,Equal mixture,Equal mixture
+ID,43,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Oracle conditional,Unconditional,Oracle conditional
+ID,44,faulted_layers,Unconditional,Unconditional,Unconditional,,Unconditional,Equal mixture,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+ID,45,dykes,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,,Unconditional,SimPEG L2,Equal mixture,SimPEG L2,Unconditional,SimPEG L2,Oracle conditional
+ID,46,faulted_layers,Equal mixture,Unconditional,Equal mixture,,Equal mixture,Unconditional,,Oracle conditional,,Equal mixture,,Oracle conditional,Equal mixture
+ID,47,faulted_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,,Equal mixture,,SimPEG L2,,Equal mixture,Equal mixture
+ID,48,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,SimPEG L2,,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,Oracle conditional
+ID,49,faulted_layers,Equal mixture,Equal mixture,Equal mixture,,Unconditional,Equal mixture,,Unconditional,,SimPEG L2,,Unconditional,Equal mixture
+ID,50,faulted_layers,Unconditional,SimPEG L2,SimPEG L2,,Equal mixture,Unconditional,,Equal mixture,,Unconditional,,Equal mixture,Equal mixture
+ID,51,dipping_layers,Equal mixture,Equal mixture,SimPEG L2,,Oracle conditional,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,Equal mixture
+ID,52,intrusions,Oracle conditional,Unconditional,Unconditional,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,53,horizontal_layers,SimPEG L2,Oracle conditional,SimPEG L2,,SimPEG L2,Equal mixture,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+ID,54,blobs,Equal mixture,Oracle conditional,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Equal mixture,Equal mixture,Equal mixture
+ID,55,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional
+ID,56,blobs,Equal mixture,SimPEG L2,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,SimPEG L2,Unconditional,Unconditional,Equal mixture,Equal mixture
+ID,57,faulted_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,58,faulted_layers,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+ID,59,horizontal_layers,Equal mixture,Equal mixture,Equal mixture,,Unconditional,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,SimPEG L2
+ID,60,faulted_layers,Unconditional,Unconditional,Oracle conditional,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Oracle conditional
+ID,61,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,SimPEG L2,,,Oracle conditional,,SimPEG L2,SimPEG L2,Oracle conditional,Oracle conditional
+ID,62,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,Oracle conditional
+ID,63,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Equal mixture,Equal mixture,Unconditional,SimPEG L2,Equal mixture,Equal mixture,Unconditional
+ID,64,blobs,Equal mixture,Oracle conditional,SimPEG L2,Unconditional,Equal mixture,,Unconditional,Equal mixture,Oracle conditional,Equal mixture,Oracle conditional,Equal mixture,Unconditional
+ID,65,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Oracle conditional,SimPEG L2,Equal mixture,Oracle conditional,Oracle conditional
+ID,66,intrusions,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,SimPEG L2,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,67,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Unconditional,Equal mixture,,Unconditional,Equal mixture,Unconditional,Oracle conditional,Oracle conditional,Equal mixture,Oracle conditional
+ID,68,intrusions,Unconditional,Oracle conditional,Unconditional,Oracle conditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Oracle conditional,Unconditional,Oracle conditional
+ID,69,intrusions,Equal mixture,Oracle conditional,Equal mixture,Oracle conditional,Equal mixture,,Unconditional,Equal mixture,Oracle conditional,SimPEG L2,Oracle conditional,Equal mixture,Oracle conditional
+ID,70,horizontal_layers,SimPEG L2,Unconditional,SimPEG L2,,SimPEG L2,Oracle conditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Oracle conditional
+ID,71,faulted_layers,SimPEG L2,Unconditional,SimPEG L2,,Equal mixture,Oracle conditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+ID,72,horizontal_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Unconditional
+ID,73,dipping_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,74,horizontal_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Unconditional,,SimPEG L2,,Unconditional,Oracle conditional
+ID,75,blobs,Unconditional,Oracle conditional,Oracle conditional,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,Unconditional
+ID,76,horizontal_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,SimPEG L2
+ID,77,intrusions,SimPEG L2,Unconditional,SimPEG L2,Unconditional,SimPEG L2,,Oracle conditional,SimPEG L2,Oracle conditional,SimPEG L2,SimPEG L2,SimPEG L2,Oracle conditional
+ID,78,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,79,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Unconditional,Oracle conditional,,Unconditional,Oracle conditional,Equal mixture,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,80,horizontal_layers,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+ID,81,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Equal mixture,SimPEG L2,Unconditional,Unconditional,Oracle conditional
+ID,82,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,Equal mixture,Unconditional,Unconditional,Oracle conditional,Oracle conditional
+ID,83,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,84,dykes,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,SimPEG L2,Oracle conditional,SimPEG L2,Unconditional,SimPEG L2,Oracle conditional
+ID,85,faulted_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,,Equal mixture,,SimPEG L2,,Equal mixture,SimPEG L2
+ID,86,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Equal mixture,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+ID,87,blobs,Equal mixture,Oracle conditional,Oracle conditional,Unconditional,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,Oracle conditional,Oracle conditional,Equal mixture,Unconditional
+ID,88,faulted_layers,Unconditional,Unconditional,SimPEG L2,,Unconditional,Equal mixture,,Unconditional,,SimPEG L2,,Unconditional,Oracle conditional
+ID,89,dipping_layers,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+ID,90,dipping_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Unconditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+ID,91,faulted_layers,Oracle conditional,SimPEG L2,SimPEG L2,,Oracle conditional,Oracle conditional,,Oracle conditional,,Unconditional,,Oracle conditional,SimPEG L2
+ID,92,horizontal_layers,Unconditional,Unconditional,SimPEG L2,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,SimPEG L2
+ID,93,horizontal_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Equal mixture,,Oracle conditional,Oracle conditional
+ID,94,faulted_layers,Equal mixture,Oracle conditional,Oracle conditional,,Equal mixture,Equal mixture,,Equal mixture,,Equal mixture,,Equal mixture,Equal mixture
+ID,95,blobs,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,,,Unconditional,,Unconditional,SimPEG L2,Unconditional,SimPEG L2
+ID,96,faulted_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,SimPEG L2
+ID,97,blobs,Equal mixture,Oracle conditional,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,Oracle conditional,SimPEG L2,Unconditional,Equal mixture,Oracle conditional
+ID,98,dykes,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Equal mixture,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+ID,99,horizontal_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,,Equal mixture,,Equal mixture,,Equal mixture,Equal mixture
+OOD,0,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Unconditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,1,horizontal_layers,Unconditional,SimPEG L2,Oracle conditional,,Equal mixture,Equal mixture,,Equal mixture,,Oracle conditional,,Equal mixture,Equal mixture
+OOD,2,blobs,SimPEG L2,SimPEG L2,SimPEG L2,SimPEG L2,SimPEG L2,,,SimPEG L2,,SimPEG L2,SimPEG L2,SimPEG L2,SimPEG L2
+OOD,3,faulted_layers,Equal mixture,Equal mixture,Equal mixture,,Equal mixture,Unconditional,,Equal mixture,,Oracle conditional,,Equal mixture,Equal mixture
+OOD,4,blobs,Unconditional,Oracle conditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Oracle conditional,SimPEG L2,Unconditional,Unconditional,Unconditional
+OOD,5,dykes,SimPEG L2,SimPEG L2,SimPEG L2,Oracle conditional,SimPEG L2,,Oracle conditional,SimPEG L2,Oracle conditional,SimPEG L2,Oracle conditional,SimPEG L2,Equal mixture
+OOD,6,dipping_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,7,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,Equal mixture,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,8,faulted_layers,SimPEG L2,Equal mixture,Oracle conditional,,SimPEG L2,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+OOD,9,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Equal mixture,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+OOD,10,dykes,Unconditional,Unconditional,Unconditional,Unconditional,Oracle conditional,,Oracle conditional,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,Oracle conditional
+OOD,11,blobs,SimPEG L2,SimPEG L2,SimPEG L2,Oracle conditional,SimPEG L2,,SimPEG L2,SimPEG L2,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional
+OOD,12,faulted_layers,Equal mixture,Equal mixture,SimPEG L2,,Equal mixture,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,Equal mixture
+OOD,13,faulted_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Equal mixture,,Oracle conditional,Oracle conditional
+OOD,14,dipping_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,15,intrusions,Unconditional,Unconditional,Oracle conditional,Oracle conditional,Unconditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,16,horizontal_layers,Oracle conditional,Unconditional,SimPEG L2,,Oracle conditional,Oracle conditional,,Oracle conditional,,SimPEG L2,,Oracle conditional,SimPEG L2
+OOD,17,intrusions,Oracle conditional,Equal mixture,Equal mixture,SimPEG L2,Oracle conditional,,,Oracle conditional,,SimPEG L2,SimPEG L2,Oracle conditional,Equal mixture
+OOD,18,horizontal_layers,SimPEG L2,Unconditional,SimPEG L2,,Unconditional,Unconditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+OOD,19,faulted_layers,SimPEG L2,Unconditional,SimPEG L2,,SimPEG L2,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Oracle conditional
+OOD,20,blobs,Oracle conditional,Oracle conditional,SimPEG L2,Equal mixture,Unconditional,,Oracle conditional,Unconditional,Equal mixture,SimPEG L2,Oracle conditional,Unconditional,Oracle conditional
+OOD,21,blobs,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional
+OOD,22,horizontal_layers,SimPEG L2,Oracle conditional,Oracle conditional,,SimPEG L2,Unconditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Equal mixture
+OOD,23,horizontal_layers,SimPEG L2,SimPEG L2,SimPEG L2,,Unconditional,Unconditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,SimPEG L2
+OOD,24,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Unconditional,Oracle conditional,,Unconditional,Oracle conditional,Unconditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,25,dipping_layers,Equal mixture,Equal mixture,Equal mixture,,Unconditional,Equal mixture,,Equal mixture,,Oracle conditional,,Equal mixture,Unconditional
+OOD,26,dipping_layers,Equal mixture,Oracle conditional,Oracle conditional,,Equal mixture,Equal mixture,,Equal mixture,,Equal mixture,,Equal mixture,Oracle conditional
+OOD,27,faulted_layers,Unconditional,Oracle conditional,Unconditional,,Unconditional,Oracle conditional,,Unconditional,,Unconditional,,Unconditional,SimPEG L2
+OOD,28,intrusions,Unconditional,Unconditional,Unconditional,SimPEG L2,SimPEG L2,,,Unconditional,,SimPEG L2,SimPEG L2,Unconditional,SimPEG L2
+OOD,29,horizontal_layers,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,,Unconditional,,Equal mixture,,Unconditional,Unconditional
+OOD,30,dipping_layers,Oracle conditional,Equal mixture,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Unconditional
+OOD,31,faulted_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,32,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Oracle conditional,,Unconditional,Unconditional,Oracle conditional,SimPEG L2,Unconditional,Unconditional,Unconditional
+OOD,33,blobs,Oracle conditional,Unconditional,SimPEG L2,Oracle conditional,Equal mixture,,Oracle conditional,Oracle conditional,Equal mixture,Oracle conditional,Unconditional,Oracle conditional,Equal mixture
+OOD,34,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,SimPEG L2,,Oracle conditional,Unconditional,Unconditional,SimPEG L2,Oracle conditional,Unconditional,Unconditional
+OOD,35,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Unconditional
+OOD,36,horizontal_layers,Equal mixture,Unconditional,SimPEG L2,,Equal mixture,Equal mixture,,Equal mixture,,SimPEG L2,,Equal mixture,Oracle conditional
+OOD,37,horizontal_layers,Equal mixture,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,Oracle conditional
+OOD,38,dykes,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,SimPEG L2,Unconditional,SimPEG L2,Equal mixture,SimPEG L2,Oracle conditional
+OOD,39,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+OOD,40,dipping_layers,Unconditional,Unconditional,Unconditional,,Unconditional,Oracle conditional,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+OOD,41,dipping_layers,Oracle conditional,Equal mixture,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,SimPEG L2
+OOD,42,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Unconditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,43,dipping_layers,Equal mixture,Oracle conditional,Oracle conditional,,Oracle conditional,Unconditional,,Equal mixture,,Equal mixture,,Equal mixture,Oracle conditional
+OOD,44,horizontal_layers,Equal mixture,Unconditional,Equal mixture,,Unconditional,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,Equal mixture
+OOD,45,dipping_layers,SimPEG L2,Equal mixture,SimPEG L2,,SimPEG L2,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+OOD,46,horizontal_layers,Equal mixture,Oracle conditional,SimPEG L2,,Equal mixture,Unconditional,,Equal mixture,,SimPEG L2,,Equal mixture,SimPEG L2
+OOD,47,blobs,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Equal mixture,,Unconditional,Equal mixture,Unconditional,Oracle conditional,Oracle conditional,Equal mixture,Oracle conditional
+OOD,48,dipping_layers,Unconditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+OOD,49,faulted_layers,Oracle conditional,Equal mixture,Oracle conditional,,Equal mixture,Equal mixture,,Oracle conditional,,Equal mixture,,Oracle conditional,Equal mixture
+OOD,50,horizontal_layers,Unconditional,Oracle conditional,Unconditional,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Equal mixture
+OOD,51,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,52,dykes,Equal mixture,Oracle conditional,SimPEG L2,Oracle conditional,Equal mixture,,Oracle conditional,Equal mixture,Oracle conditional,SimPEG L2,Oracle conditional,Equal mixture,Oracle conditional
+OOD,53,intrusions,Unconditional,Unconditional,SimPEG L2,Unconditional,SimPEG L2,,Equal mixture,SimPEG L2,Oracle conditional,SimPEG L2,Equal mixture,SimPEG L2,Oracle conditional
+OOD,54,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Unconditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+OOD,55,blobs,Oracle conditional,Oracle conditional,Equal mixture,Oracle conditional,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Oracle conditional,Equal mixture,Oracle conditional
+OOD,56,horizontal_layers,Equal mixture,Oracle conditional,SimPEG L2,,Equal mixture,Unconditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,SimPEG L2
+OOD,57,blobs,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Equal mixture,,Oracle conditional,Oracle conditional,Equal mixture,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,58,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+OOD,59,dykes,SimPEG L2,Unconditional,SimPEG L2,Oracle conditional,SimPEG L2,,Unconditional,SimPEG L2,Oracle conditional,SimPEG L2,Oracle conditional,SimPEG L2,Oracle conditional
+OOD,60,faulted_layers,Unconditional,Equal mixture,Equal mixture,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+OOD,61,horizontal_layers,SimPEG L2,Equal mixture,Oracle conditional,,SimPEG L2,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Oracle conditional
+OOD,62,faulted_layers,Unconditional,Equal mixture,Equal mixture,,Oracle conditional,Unconditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,SimPEG L2
+OOD,63,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,64,horizontal_layers,Unconditional,Equal mixture,Unconditional,,Unconditional,Equal mixture,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+OOD,65,blobs,Equal mixture,Oracle conditional,SimPEG L2,Oracle conditional,Equal mixture,,Unconditional,Equal mixture,Equal mixture,SimPEG L2,Unconditional,Equal mixture,Oracle conditional
+OOD,66,blobs,Equal mixture,Oracle conditional,Equal mixture,Unconditional,Equal mixture,,Unconditional,Equal mixture,Oracle conditional,Unconditional,Oracle conditional,Equal mixture,Oracle conditional
+OOD,67,blobs,SimPEG L2,Unconditional,SimPEG L2,Unconditional,SimPEG L2,,Unconditional,Equal mixture,Unconditional,SimPEG L2,Unconditional,Equal mixture,Equal mixture
+OOD,68,horizontal_layers,Equal mixture,Oracle conditional,Equal mixture,,Equal mixture,Unconditional,,Equal mixture,,Equal mixture,,Equal mixture,SimPEG L2
+OOD,69,faulted_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,70,dykes,Unconditional,Unconditional,Unconditional,Unconditional,SimPEG L2,,Unconditional,Unconditional,Unconditional,SimPEG L2,Unconditional,Unconditional,Unconditional
+OOD,71,intrusions,Oracle conditional,Equal mixture,Equal mixture,Equal mixture,Oracle conditional,,Unconditional,Equal mixture,Unconditional,SimPEG L2,Oracle conditional,Equal mixture,Oracle conditional
+OOD,72,intrusions,Unconditional,Unconditional,Unconditional,Unconditional,Unconditional,,Unconditional,Unconditional,Unconditional,SimPEG L2,Equal mixture,Unconditional,Oracle conditional
+OOD,73,intrusions,Oracle conditional,Unconditional,Unconditional,Oracle conditional,Oracle conditional,,Equal mixture,Oracle conditional,Equal mixture,SimPEG L2,Oracle conditional,Oracle conditional,Oracle conditional
+OOD,74,faulted_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,75,blobs,Equal mixture,SimPEG L2,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Oracle conditional,Equal mixture,Oracle conditional
+OOD,76,intrusions,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+OOD,77,horizontal_layers,Unconditional,Oracle conditional,Unconditional,,Unconditional,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,Unconditional
+OOD,78,horizontal_layers,SimPEG L2,SimPEG L2,SimPEG L2,,SimPEG L2,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,SimPEG L2
+OOD,79,horizontal_layers,Equal mixture,SimPEG L2,SimPEG L2,,Unconditional,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+OOD,80,blobs,Equal mixture,Unconditional,SimPEG L2,Unconditional,Equal mixture,,Unconditional,Equal mixture,Oracle conditional,Equal mixture,Oracle conditional,Equal mixture,Equal mixture
+OOD,81,dykes,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,Equal mixture,SimPEG L2,Unconditional,Oracle conditional,Oracle conditional
+OOD,82,faulted_layers,Unconditional,Unconditional,SimPEG L2,,Unconditional,Unconditional,,SimPEG L2,,SimPEG L2,,SimPEG L2,Unconditional
+OOD,83,horizontal_layers,Equal mixture,Equal mixture,SimPEG L2,,Equal mixture,Equal mixture,,SimPEG L2,,SimPEG L2,,SimPEG L2,Equal mixture
+OOD,84,dipping_layers,Equal mixture,SimPEG L2,SimPEG L2,,Equal mixture,Oracle conditional,,Equal mixture,,Equal mixture,,Equal mixture,Equal mixture
+OOD,85,blobs,Oracle conditional,Oracle conditional,SimPEG L2,Unconditional,Equal mixture,,Equal mixture,Equal mixture,Equal mixture,SimPEG L2,Unconditional,Equal mixture,Oracle conditional
+OOD,86,faulted_layers,Oracle conditional,Equal mixture,Equal mixture,,Equal mixture,Oracle conditional,,Equal mixture,,Oracle conditional,,Equal mixture,SimPEG L2
+OOD,87,dipping_layers,Equal mixture,Unconditional,Equal mixture,,Unconditional,Oracle conditional,,Equal mixture,,SimPEG L2,,Equal mixture,Unconditional
+OOD,88,horizontal_layers,Unconditional,Equal mixture,Oracle conditional,,Unconditional,Equal mixture,,Unconditional,,Unconditional,,Unconditional,Oracle conditional
+OOD,89,horizontal_layers,SimPEG L2,Unconditional,SimPEG L2,,Unconditional,Unconditional,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+OOD,90,blobs,Unconditional,Unconditional,SimPEG L2,Unconditional,SimPEG L2,,Unconditional,Equal mixture,Unconditional,SimPEG L2,Unconditional,Equal mixture,Oracle conditional
+OOD,91,dipping_layers,Oracle conditional,Equal mixture,SimPEG L2,,Oracle conditional,Equal mixture,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,92,blobs,Oracle conditional,Oracle conditional,SimPEG L2,Equal mixture,Equal mixture,,Equal mixture,Equal mixture,Unconditional,SimPEG L2,Equal mixture,Equal mixture,SimPEG L2
+OOD,93,horizontal_layers,Unconditional,Equal mixture,Unconditional,,Unconditional,Equal mixture,,Unconditional,,SimPEG L2,,Unconditional,Unconditional
+OOD,94,dipping_layers,Oracle conditional,Unconditional,Oracle conditional,,Oracle conditional,Equal mixture,,Oracle conditional,,Equal mixture,,Oracle conditional,Oracle conditional
+OOD,95,dipping_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Unconditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Unconditional
+OOD,96,horizontal_layers,Equal mixture,Oracle conditional,Equal mixture,,Equal mixture,Oracle conditional,,Unconditional,,Unconditional,,Unconditional,SimPEG L2
+OOD,97,dipping_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,Oracle conditional,,Oracle conditional,Oracle conditional
+OOD,98,horizontal_layers,Oracle conditional,Oracle conditional,Oracle conditional,,Oracle conditional,Oracle conditional,,Oracle conditional,,SimPEG L2,,Oracle conditional,Oracle conditional
+OOD,99,horizontal_layers,Equal mixture,Oracle conditional,Equal mixture,,Equal mixture,Unconditional,,Equal mixture,,Equal mixture,,Equal mixture,Unconditional
