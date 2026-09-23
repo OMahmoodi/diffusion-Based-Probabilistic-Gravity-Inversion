@@ -1,0 +1,5 @@
+Python: 3.12.13
+Platform: Linux-6.12.90+-x86_64-with-glibc2.35
+CUDA available: True
+CUDA version: 12.8
+GPU: Tesla T4

@@ -1,0 +1,9 @@
+numpy==2.0.2
+scipy==1.16.3
+pandas==2.3.3
+matplotlib==3.10.0
+torch==2.10.0
+scikit-image
+simpeg>=0.25,<0.26
+discretize>=0.11
+tqdm==4.67.3
